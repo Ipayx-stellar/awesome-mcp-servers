@@ -519,3 +519,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [iPayX FX Audit](https://github.com/Ipayx-stellar/mcp-fx-audit) - Audit FX fees, compare currency conversion margins and score cross-border invoices in real time. Powered by iPayX Protocol.
